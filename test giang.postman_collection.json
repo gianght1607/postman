@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "login reqres",
+			"name": "Login request reqres",
 			"event": [
 				{
 					"listen": "prerequest",
